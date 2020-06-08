@@ -1,2 +1,3 @@
 # TTS-JS
 rock-paper-.....
+This is a Rock Paper and Scissor Game using JavaScript, HTML, and CSS. :)
