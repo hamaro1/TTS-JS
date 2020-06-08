@@ -1,2 +1,3 @@
 # TTS-JS
 rock-paper-.....
+This is a simple game of Rock-Paper-Scissors!! Enjoy :)
